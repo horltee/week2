@@ -1,2 +1,7 @@
 me amd you
 all of you
+git init
+git add *
+git commit -m "any name"
+git status
+git push -u
